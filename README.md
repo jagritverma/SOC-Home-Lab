@@ -97,11 +97,11 @@ Ran CIS Microsoft Windows 11 Enterprise Benchmark v1.0.0:
 
 | Technique | ID | Detection |
 |-----------|-----|-----------|
-| Network Service Discovery | T1046 | ✅ Detected |
-| Brute Force | T1110 | ✅ Detected |
-| Password Guessing | T1110.001 | ✅ Detected |
-| Malware | T1587.001 | ✅ Detected |
-| Stored Data Manipulation | T1565.001 | ✅ Detected |
+| Network Service Discovery | T1046 |  Detected |
+| Brute Force | T1110 | Detected |
+| Password Guessing | T1110.001 |  Detected |
+| Malware | T1587.001 | Detected |
+| Stored Data Manipulation | T1565.001 |  Detected |
 
 ---
 
